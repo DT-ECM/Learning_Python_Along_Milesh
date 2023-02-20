@@ -19,7 +19,7 @@ def question1(param):
 #With seed values 
 #F0 = 0 and F1 = 1.
 # Input : 4
-#output : 4*3*2*1 = 24
+#output : 4+3+2+1+1+0 = 11
 def question2(param):
     # Write your solution here
   
