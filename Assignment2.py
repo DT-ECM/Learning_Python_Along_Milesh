@@ -16,20 +16,21 @@ def question1(param):
 
 #In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation 
 #Fn = Fn-1 + Fn-2
-#With seed values 
+#With seed values as
 #F0 = 0 and F1 = 1.
-# Input : 4
-#output : 4+3+2+1+1+0 = 11
+# Given an number n, determine the sum of first n numbers in fibonacci series.
+#Input : 6
+#output : 0+1+1+2+3+5 = 12
 def question2(param):
     # Write your solution here
   
-    #pass
+    pass
 #program to check if a string is palindrome or not
 #Examples: 
 #Input : malayalam
 #Output : Yes
 
-#Input : geeks
+#Input : dtapps
 #Output : No
 
 def question3(param):
@@ -48,10 +49,10 @@ def question4(param):
     pass
 #Program for Sum of squares of first n natural numbers
 
-#Given a positive integer N. The task is to find 12 + 22 + 32 + ….. + N2. Examples:
+#Given a positive integer N. The task is to find 1^2 + 2^2 + 3^2 + ….. + N^2. Examples:
 #Input : N = 4
 #Output : 30
-#12 + 22 + 32 + 42
+#1^2 + 2^2 + 3^2 + 4^2
 #= 1 + 4 + 9 + 16
 #Input : N = 5
 #Output : 55
